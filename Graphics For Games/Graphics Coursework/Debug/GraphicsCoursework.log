@@ -1,0 +1,12 @@
+﻿  Renderer.cpp
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.h(31,17): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(282,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(289,66): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(289,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(289,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(292,111): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(292,80): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(293,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Graphics Coursework\Renderer.cpp(698,35): warning C4305: “参数”: 从“double”到“const float”截断
+  GraphicsCoursework.vcxproj -> F:\postgraduatecoursework\Coursework Of Vin\openglexercise\Graphics For Games\Debug\GraphicsCoursework.exe
